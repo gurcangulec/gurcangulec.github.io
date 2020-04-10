@@ -35,7 +35,7 @@ body {
 }
 
 h1{
-  font-size: 2rem;
+  font-size: 2.2rem;
 }
 
 h1 a {
@@ -82,7 +82,7 @@ hr {
 .container {
   margin-left: auto;
   margin-right: auto;
-  width: 615px;
+  width: 738px;
 }
 
 /*48em*/
@@ -109,12 +109,13 @@ hr {
 }
 
 .masthead-title a {
-  font-size: 2rem;
+  font-size: 2.2rem;
   text-decoration: none;
   color: #505050;
 }
 
 .masthead-subtitle {
+  font-size: 1.2rem;
   color: #999;
 }
 
