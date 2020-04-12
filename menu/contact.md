@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Contact
+title: contact away!
 ---
 
-If you are having any problems, any questions or suggestions, feel free to [tweet at me](https://twitter.com/intent/tweet?text=%40paululele), or [file a GitHub issue](https://github.com/lenpaul/lagrange/issues/new)
+I don't use it much but if you have any questions or, all of a sudden you get the feeling that you need to praise me, feel free to [tweet at me](https://twitter.com/gurcangulec) or just write an [email](contact@regardingthings.com).
