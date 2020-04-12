@@ -4,7 +4,7 @@ title: first post!
 author: “Gurcan Gulec“
 categories: journal
 tags: [documentation]
-image: Finally-first-post.jpg
+image: finally-first-post.jpg
 ---
 
 Hello and welcome to you stranger!
