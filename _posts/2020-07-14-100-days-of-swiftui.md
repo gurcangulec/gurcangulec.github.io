@@ -3,7 +3,7 @@ layout: post
 title: 100 days of swiftui
 author: “Gurcan Gulec“
 categories: programming
-tags: [documentation]
+tags: [programming, swift, swiftui, paul hudson, hackingwithswift.com]
 image: 100-days-of-swiftui.jpg
 ---
 Although I started doing [100 Days of SwiftUI](https://www.hackingwithswift.com/100/swiftui/1) a while ago. I stopped doing it after day 20-something. Then I decided I will stick with it this time and I will let people know about my progress each time I complete a “day”. I am not saying I will finish it in 100 days or I will keep updating everyone *everyday*. That’s something humanely impossible.  But I will observe where it takes me when I complete it.
