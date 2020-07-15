@@ -4,7 +4,7 @@ title: 100 days of swiftui - day 2
 author: “Gurcan Gulec“
 categories: programming
 tags: [swift, tuples, arrays, array, tuple, enums, enum, set, sets, swiftui, hackingwithswift]
-image:
+image: 100-days-of-swiftui2.jpg
 ---
 Here is what I learnt today, or what I already knew but I got to go over it one more time.
 
