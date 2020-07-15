@@ -6,7 +6,7 @@ categories: programming
 tags: [swift, tuples, arrays, array, tuple, enums, enum, set, sets, swiftui, hackingwithswift]
 image: 100-days-of-swiftui2.jpg
 ---
-Here is what I learnt today, or what I already knew but I got to go over it one more time.
+Welcome to day 2. Today is going to be about arrays, sets, tuples and dictionaries. Please don't assume that I will be sharing my progress like this post every day. It is time consuming and also tiring. I still want to do my best and at least share some tips or small summary of the day. Without further ado, let's go into the topics of day 2.
 
 `let cars = ["bmw", "mercedes", "honda"]` -> This is how you declare an array.
 
