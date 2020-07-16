@@ -46,7 +46,7 @@ print(firstCard == secondCard ? "Cards are the same" : "Cards are different")
 It checks if the cards are equal to each other and according to that, second or the third statement will be printed. In the example, we will get “Cards are different”, since the firstCard and secondCard are not equal.
 
 Then we have the switch statement.
-```
+```swift
 switch weather {
 	case "rain":
 	print("Bring an umbrella")
