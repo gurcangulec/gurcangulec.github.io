@@ -22,7 +22,7 @@ This is called **operator overloading**.
 
 And if we take a look at the **comparison operators** shortly, == checks if the values on the each side are equal, != does the opposite. < means smaller than, > means greater than, <= means smaller or equal to, >= means greater or equal to.
 
-```
+```swift
 if firstCard + secondCard == 2 {
     print("Aces – lucky!")
 } else if firstCard + secondCard == 21 {
