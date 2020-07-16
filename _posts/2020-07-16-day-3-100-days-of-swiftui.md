@@ -18,7 +18,8 @@ let time2 = time + "is it?"
 ```
 This is called **operator overloading**.
 
-`score += 5` -> If we defined “score” earlier, this is how we increment it by 5.  += is a **compound operator** example. This can also be used to add one string to another.
+`swift
+score += 5` -> If we defined “score” earlier, this is how we increment it by 5.  += is a **compound operator** example. This can also be used to add one string to another.
 
 And if we take a look at the **comparison operators** shortly, == checks if the values on the each side are equal, != does the opposite. < means smaller than, > means greater than, <= means smaller or equal to, >= means greater or equal to.
 
@@ -38,7 +39,7 @@ It is possible to combine conditions with **combining operators**. These operato
 The **ternary operator** could give me some hard times. It’s easy but could be hard to remember. It has three values. It checks the condition for the first value,  and if it is true, returns the second value, if it is false, returns the third value. So far, everything is familiar, but not the ternary operator. 
 
 Here is an example:
-```
+```swift
 let firstCard = 11
 let secondCard = 10
 print(firstCard == secondCard ? "Cards are the same" : "Cards are different")
