@@ -1,6 +1,6 @@
 ---
 layout: post
-title: an unexpected journey - 100 days of swiftui
+title: 100 days of swiftui: an unexpected journey
 author: “Gurcan Gulec“
 categories: programming
 tags: [programming, swift, swiftui, paul hudson, hackingwithswift.com]
