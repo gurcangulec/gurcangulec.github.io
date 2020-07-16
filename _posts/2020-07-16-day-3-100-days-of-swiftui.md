@@ -33,7 +33,7 @@ if firstCard + secondCard == 2 {
 ```
 This is how you use **if statement**s in Swift. It’s pretty self explanatory if you have some programming background.
 
-It is possible to combine conditions with **combining operators**. These operators are || and &&.  With && (pronounced “and”), statement inside if will only be run when both the conditions are true. With || (pronounced “or”), statement inside if will run if one of the conditions are true.
+It is possible to combine conditions with **combining operators**. These operators are `||` and `&&`.  With `&&` (pronounced “and”), statement inside if will only be run when both the conditions are true. With `||` (pronounced “or”), statement inside if will run if one of the conditions are true.
 
 The **ternary operator** could give me some hard times. It’s easy but could be hard to remember. It has three values. It checks the condition for the first value,  and if it is true, returns the second value, if it is false, returns the third value. So far, everything is familiar, but not the ternary operator. 
 
