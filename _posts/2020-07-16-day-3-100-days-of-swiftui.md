@@ -3,7 +3,7 @@ layout: post
 title: day 0000 0011
 author: “Gurcan Gulec“
 categories: programming
-tags: [swift, tuples, arrays, array, tuple, enums, enum, set, sets, swiftui, hackingwithswift]
+tags: [swift, operators, comparison operators, operator overloading, ternary operator, range operators, swiftui, hackingwithswift]
 image: 100-days-of-swiftui2.jpg
 ---
 
@@ -59,7 +59,7 @@ switch weather {
 ```
 Alright, at least this is familiar. If we have many conditions, instead of using if, if else, we can use switch structure. It’s really important to give a default value at the end of the switch condition. If weather is anything other than the conditions we defined, it will use the default value. fallthrough keyword can be used if we want the next case the be ran as well. In the example, if we choose “snow” as weather value, execution will continue with the next case.  But if we choose “rain” as the value, it will not go to next case because ‘case “rain”’ doesn’t have “fallthrough” keyword.
 
-The last thing I wanna mention, or we could say I learnt with the third day is range operators which is something I am kinda unfamiliar with. Half open range operator (..<) creates range up to but excludes the last value and closed range operator (…) creates range up to and includes the last value as well.  `1..<5` includes the numbers from 1 to 4. 1…5 include the numbers from 1 to 5. They are helpful with switch blocks.
+The last thing I wanna mention, or we could say I learnt with the third day is **range operator**s which is something I am kinda unfamiliar with. Half open range operator (..<) creates range up to but excludes the last value and closed range operator (…) creates range up to and includes the last value as well.  `1..<5` includes the numbers from 1 to 4. 1…5 include the numbers from 1 to 5. They are helpful with switch blocks.
 
 Alright, note to myself at the end of the day. I know I need to take a look at the syntax of ternary operator. Everything else is clear. Or is it? 
 
