@@ -1,6 +1,6 @@
 ---
 layout: post
-title: day 0000 0011
+title: day 3
 author: “Gurcan Gulec“
 categories: programming
 tags: [swift, operators, comparison operators, operator overloading, ternary operator, range operators, swiftui, hackingwithswift]
