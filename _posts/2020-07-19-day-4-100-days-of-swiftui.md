@@ -7,7 +7,7 @@ tags: [loop, loops, for loop, while loop, repeat loop, break, continue, swiftui,
 image: 100-days-of-swiftui2.jpg
 ---
 
-I already failed to keep my promise to myself about completing a day of [100 Days of SwiftUI – Hacking with Swift](https://www.hackingwithswift.com/100/swiftui) and writing a blog post. But I don’t give up just yet.
+I already failed to keep my promise to myself about completing a day of [100 Days of SwiftUI](https://www.hackingwithswift.com/100/swiftui) and writing a blog post. But I don’t give up just yet.
 
 At first I planned to combine two days in this post, but then I decided to go day by day, even though some posts might be short.
 
