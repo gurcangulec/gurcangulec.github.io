@@ -1,6 +1,6 @@
 ---
 layout: post
-title: day 0000 0010
+title: day 2
 author: “Gurcan Gulec“
 categories: programming
 tags: [swift, tuples, arrays, array, tuple, enums, enum, set, sets, swiftui, hackingwithswift]
